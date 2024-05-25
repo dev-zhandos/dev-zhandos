@@ -39,7 +39,7 @@
 [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/teraform.png" />][github]
 
 
-[mail]: mailto:john@example.com
+[mail]: mailto:usenzhandos@hotmail.com
 [twitter]: https://twitter.com/deekshithsn
 [linkedin]: https://www.linkedin.com/in/deekshith-sn-972532a1/
 [github]: https://github.com/dev-zhandos/devops-notes
